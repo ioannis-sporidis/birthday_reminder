@@ -7,7 +7,7 @@ function App() {
   const [people, setPeople] = useState(data);
 
   const clickHandler = () => {
-    console.log(people);
+    setPeople([]);
   };
 
   return (
