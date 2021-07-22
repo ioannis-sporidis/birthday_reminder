@@ -1,6 +1,6 @@
-# React Birthday Reminder
+# Birthday Reminder
 
-https://ioannis-sporidis.github.io/react_birthday_reminder/
+https://ioannis-sporidis.github.io/birthday_reminder/
 
 ## Next steps:
 - Use mock data API instead of hard-coded one
