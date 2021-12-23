@@ -1,12 +1,12 @@
 # Birthday reminder component
 
-Click [here](https://ioannis-sporidis.github.io/rc-birthday-reminder/) to check out the component.
+Check oout the component [here](https://ioannis-sporidis.github.io/rc-birthday-reminder/)
 
 
 ## Dependencies
 
 - [React](https://reactjs.org/)
-- [NPM gh-pages](https://www.npmjs.com/package/gh-pages)
+- [NPM Github Pages](https://www.npmjs.com/package/gh-pages)
 
 ## Next Steps
 - Add some type of functionality to refresh results.
