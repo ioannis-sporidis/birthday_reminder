@@ -1,6 +1,6 @@
 # Birthday reminder component
 
-Check oout the component [here](https://ioannis-sporidis.github.io/rc-birthday-reminder/)
+Check oout the component [here](https://the-fetaverse.github.io/rc-birthday-reminder/)
 
 
 ## Dependencies
